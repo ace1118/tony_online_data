@@ -1,0 +1,12 @@
+{
+  "queries": [
+    {
+      "trigger": ["sf10", "proseso", "process"],
+      "response": "Upang makuha ang SF10 ng bata, maaring pumunta sa paaralan at hanapin si Sir Jojo Hebunan, o i-message ang Facebook page ng paaralan patungkol dito.\n\nKung meron, dalhin ang SF10 Request Form mula bagong paaralan na pinapasukan ng bata. Pagkatapos ma-request, maaring i-message ang paaralan upang makahingi ng update patungkol sa request at kung kailan ito makukuha.\n\nPAALALA, walang bayad ang pag-request o pagkuha ng SF10."
+    },
+    {
+      "trigger": ["sf10", "kailan", "when"],
+      "response": "Pagkatapos ma-request, maaring i-message ang paaralan upang makahingi ng update patungkol sa request at kung kailan ito makukuha.\n\nPAALALA, walang bayad ang pag-request o pagkuha ng SF10."
+    }
+  ]
+}
